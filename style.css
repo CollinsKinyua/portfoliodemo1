@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#navbar{
+    padding: 8px;
+    margin: 0px;
+}
+#logo{
+    height: 50px;
+}
+
+#premium_photo{
+    object-fit: cover;
+    /* image stops streching. */
+}
+
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0% auto;
+    padding: 8px;
+}
+.Mwenda{
+    color: rgb(25, 9, 239);
+    transition: 30ms;
+}
+#content{
+    width: 20%;
+    padding: 3% 2% 3% 2%;
+    margin-top: 0%;
+}
+#maincontent{
+    width: 100%;
+
+}
+#codepic{
+    height: 500px;
+
+    margin-left: 20%;
+}
+h1{
+    text-align: center;
+    color:blue;
+}
+
+#premium_photo{  
+ width: 100%;
+}
+
+.menu{
+    color: brown;
+}
